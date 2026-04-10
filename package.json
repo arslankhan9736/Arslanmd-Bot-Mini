@@ -1,7 +1,7 @@
 {
-    "name": "whatsapp-md-bot",
+    "name": "Arslan-md-bot",
     "version": "1.0.0",
-    "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
+    "description": "Arslan MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -16,7 +16,7 @@
         "baileys",
         "md"
     ],
-    "author": "Your Name",
+    "author": "ARSLAN KHAN",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
