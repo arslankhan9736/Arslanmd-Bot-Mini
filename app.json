@@ -1,6 +1,6 @@
 {
-  "name": "Knight Bot MINI",
-  "description": "WhatsApp MD bot (Baileys)",
+  "name": "Arslan Bot MINI",
+  "description": "Arslan MD bot (Baileys)",
   "repository": "",
   "keywords": ["whatsapp", "baileys", "bot", "node"],
   "buildpacks": [
@@ -10,7 +10,7 @@
   ],
   "env": {
     "SESSION_ID": {
-      "description": "KnightBot session string (e.g. KnightBot!<base64_compressed_data>)",
+      "description": "Arslan session string (e.g. Arslanbot!<base64_compressed_data>)",
       "required": false,
       "value": ""
     }
